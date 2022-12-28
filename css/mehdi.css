@@ -1,0 +1,55 @@
+body{
+    
+    font-family: Helvetica, Arial,  sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    background-color: pink;
+    text-align: center ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1{
+    color: white;
+    font-size: 50px;
+}
+header img{
+    border-radius: 175px;
+    width: 300px;
+    border: 20px solid #333;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 35px;
+    color: salmon;
+    margin: 40px 0 20px;
+}
+
+a{
+    color: salmon;   
+}
+a:hover{
+    color: white;
+    background-color: purple;
+}
+footer{
+    background-color: pink;
+    text-align: center ;
+    color: white;
+}
+footer p {
+    margin: 0;
+}
+p.caption{
+    color: lightgray;
+    font-style: italic;
+    margin-top: 0;
+}
